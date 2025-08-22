@@ -2,4 +2,6 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
     font-style: italic;
+    color:blue;
+    background-color: blueviolet;
 }
